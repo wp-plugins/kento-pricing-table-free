@@ -8,11 +8,11 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Pure CSS3 & HTML Pricing Table Grid with Unlimted Column. 
+Pure CSS3 & HTML Pricing Table Grid with Unlimited Column. 
 
 == Description ==
 
-Pur CSS3 & HTML Smart Pricing table grid 
+Pure CSS3 & HTML Smart Pricing table grid 
 
 Live Preview: http://kentothemes.com/demo/kento-pricing-table-free/
 
@@ -25,7 +25,7 @@ Plugin Features
 * Unlimited Color.
 * Unlimited Column.
 * ToolTip Text.
-* Blank Field croos icon. 
+* Blank Field cross icon. 
 
 
 
@@ -35,7 +35,7 @@ Plugin Features
 
 1. Install as regular WordPress plugin.
 2. Go your Pluings setting via WordPress Dashboard and <strong>activate</strong> it.
-3. After Acivate you see Menu on left Sidebar "<strong>KPT Settings</strong>" 
+3. After Activate you see Menu on left Sidebar "<strong>KPT Settings</strong>" 
 4. Please set a value these settings.<br />
 	<strong>Table Column Width:</strong> (ex: 180)<br />
 	<strong>Background Color:</strong> (ex: #37B291)<br />
@@ -58,6 +58,10 @@ To display tooltip on any filed you need to add a css class "<strong>tooltip</st
 
 <strong>How to Display on Post or Page ?</strong><br />
 after fill table data field please add this shortcode <strong>[kpt]</strong> to your post or page
+
+
+Video Tutorial Here:
+http://www.youtube.com/watch?v=KAHTDyUAIPA
 
 
 
