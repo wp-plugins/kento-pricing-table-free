@@ -34,14 +34,14 @@ Plugin Features
 
 
 1. Install as regular WordPress plugin.
-2. Go your Pluings setting via WordPress Dashboard and activate it.
-3. After Acivate you see Menu on left Sidebar "KPT Settings" 
-4. Please set a value these settings.
-	Table Column Width: (ex: 180)
-	Background Color: (ex: #37B291)
-	How Many Column: (ex: 3)
-5. Hit "Save Changes"
-6. You Will See Table Field bellow "How Many Column:"
+2. Go your Pluings setting via WordPress Dashboard and <strong>activate</strong> it.
+3. After Acivate you see Menu on left Sidebar "<strong>KPT Settings</strong>" 
+4. Please set a value these settings.<br />
+	<strong>Table Column Width:</strong> (ex: 180)<br />
+	<strong>Background Color:</strong> (ex: #37B291)<br />
+	<strong>How Many Column:</strong> (ex: 3)<br />
+5. Hit "<strong>Save Changes<strong>"
+6. You Will See Table Field bellow "<strong>How Many Column:</strong>"
 
 Please fill the table field as bello format:<br /><br />
 1st Row: Column Header(ex: Basic Plan)<br />
@@ -50,14 +50,14 @@ Please fill the table field as bello format:<br /><br />
 Last Row: Sing Up Link(ex: &lt;a href="#"&gt;SignUp&lt;/a&gt;)<br />
 
 <strong>How To Display Tooltip ?</strong><br />
-To display tooltip on any filed you need to add a css class "tooltip" to text
+To display tooltip on any filed you need to add a css class "<strong>tooltip</strong>" to text
 
 &lt;span class="tooltip" title="here is tooltip text"&gt;Some Text&lt;/span&gt;
 
 ** Any Blank Field will display cross icon.
 
-How to Display on Post or Page ?
-after fill table data field please add this shortcode [kpt] to your post or page
+<strong>How to Display on Post or Page ?</strong><br />
+after fill table data field please add this shortcode <strong>[kpt]</strong> to your post or page
 
 
 
