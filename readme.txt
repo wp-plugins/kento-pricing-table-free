@@ -43,11 +43,11 @@ Plugin Features
 5. Hit "<strong>Save Changes<strong>"
 6. You Will See Table Field bellow "<strong>How Many Column:</strong>"
 
-Please fill the table field as bello format:<br /><br />
-1st Row: Column Header(ex: Basic Plan)<br />
-2nd Row: Column Price(ex: 20$)<br />
+Please fill the table field as bellow format:<br /><br />
+<strong>1st Row:</strong> Column Header(ex: Basic Plan)<br />
+<strong>2nd Row:</strong> Column Price(ex: 20$)<br />
 
-Last Row: Sing Up Link(ex: &lt;a href="#"&gt;SignUp&lt;/a&gt;)<br />
+<strong>Last Row:</strong> Sing Up Link(ex: &lt;a href="#"&gt;SignUp&lt;/a&gt;)<br />
 
 <strong>How To Display Tooltip ?</strong><br />
 To display tooltip on any filed you need to add a css class "<strong>tooltip</strong>" to text
