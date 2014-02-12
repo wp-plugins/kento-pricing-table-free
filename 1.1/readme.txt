@@ -22,8 +22,9 @@ Live Preview: http://kentothemes.com/demo/kento-pricing-table-free/
 
 Plugin Features
 
-* Unlimited Color.
+* Unlimited Row.
 * Unlimited Column.
+* Unlimited Color.
 * ToolTip Text.
 * Blank Field cross icon. 
 
