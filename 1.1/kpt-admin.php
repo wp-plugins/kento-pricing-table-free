@@ -9,6 +9,9 @@
 			
 			$kpt_total_column =  sanitize_text_field($_POST['kpt_total_column']);
 			update_option('kpt_total_column', $kpt_total_column);
+			
+			$kpt_total_row =  sanitize_text_field($_POST['kpt_total_row']);
+			update_option('kpt_total_row', $kpt_total_row);			
 
 			$kpt_table_field =  stripslashes_deep($_POST['kpt_table_field']);
 			update_option('kpt_table_field', $kpt_table_field);	
@@ -26,7 +29,7 @@
 			$kpt_column_width = get_option( 'kpt_column_width' );
 			$kpt_bg_color = get_option( 'kpt_bg_color' );		
 			$kpt_total_column = get_option( 'kpt_total_column' );	
-
+			$kpt_total_row = get_option( 'kpt_total_row' );
 
 			$kpt_table_field = stripslashes_deep(get_option( 'kpt_table_field' ));
 
@@ -72,11 +75,23 @@
 		<td style="vertical-align:middle;">
         
         
-<input size="3" name="kpt_total_column" id="kpt-total-column" type="text" value="<?php if ( isset( $kpt_total_column ) ) echo $kpt_total_column; ?>" /> **Click outside the box to update table column
+<input size="3" name="kpt_total_column" id="kpt-total-column" type="text" value="<?php if ( isset( $kpt_total_column ) ) echo $kpt_total_column; ?>" /> **Click outside the box to update table
         
 
 		</td>
-	</tr>	
+	</tr>
+    
+	<tr valign="top">
+		<th scope="row"><label for="kpt-total-row"><?php echo __('How Many Row'); ?>: </label></th>
+		<td style="vertical-align:middle;">
+        
+        
+<input size="3" name="kpt_total_row" id="kpt-total-row" type="text" value="<?php if ( isset( $kpt_total_row ) ) echo $kpt_total_row; ?>" /> **Click outside the box to update table
+        
+
+		</td>
+	</tr>    
+    
     <tr valign="top">
 		<th scope="row">Table Data:
 		</th>
@@ -86,7 +101,7 @@
 
 
 echo "<table class='price-table-admin' >";
-for($j=1; $j<=7; $j++)
+for($j=1; $j<=$kpt_total_row; $j++)
   {
   echo "<tr>";
   
