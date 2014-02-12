@@ -3,7 +3,7 @@
 Plugin Name: Kento Pricing Table Free
 Plugin URI: http://kentothemes.com
 Description: Pure CSS3 & HTML Pricing Table Grid with Unlimted Column.
-Version: 1.0
+Version: 1.1
 Author: KentoThemes
 Author URI: http://kentothemes.com
 License: GPLv2 or later
@@ -27,6 +27,7 @@ function kpt_ajax_form()
 	{
 		$kpt_bg_color = get_option( 'kpt_bg_color' );
 		$kpt_total_column = $_POST['kpt_total_column'];
+		$kpt_total_row  = $_POST['kpt_total_row'];		
 		$kpt_table_field = get_option( 'kpt_table_field' );
 		
 
@@ -36,7 +37,7 @@ function kpt_ajax_form()
 			
 			
 echo "<table class='price-table-admin' >";
-for($j=1; $j<=7; $j++)
+for($j=1; $j<=$kpt_total_row ; $j++)
   {
   echo "<tr>";
   
@@ -70,6 +71,7 @@ function kpt_display($cont){
 
 			$kpt_style = "style1";
 			$kpt_total_column = get_option( 'kpt_total_column' );
+			$kpt_total_row = get_option( 'kpt_total_row' );			
 			$kpt_table_field = get_option( 'kpt_table_field' );
 
 
@@ -84,7 +86,7 @@ while($j<=$kpt_total_column)
 				$cont.=  "<li class='price-table-row'>";
 				$cont.=  "<ul class='price-table-column-items'>";
 				$i = 1;
-				while($i<=7)
+				while($i<=$kpt_total_row )
 
 			{		
 					if($kpt_style=="style1"){
@@ -232,7 +234,8 @@ add_action('admin_menu', 'kpt_menu_init');
 function kpt_init(){
 	register_setting('kpt_plugin_options', 'kpt_column_width');	
 	register_setting('kpt_plugin_options', 'kpt_bg_color');
-	register_setting('kpt_plugin_options', 'kpt_total_column');	
+	register_setting('kpt_plugin_options', 'kpt_total_column');
+	register_setting('kpt_plugin_options', 'kpt_total_row');	
 	register_setting('kpt_plugin_options', 'kpt_table_field');
     }
 	
