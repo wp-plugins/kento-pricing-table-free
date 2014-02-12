@@ -4,7 +4,7 @@ Donate link:
 Tags: Pricing Table Free, Pricing Table, Price Table, Pricing rate, discount offer, comparison table, css table, price, price gird, pricing, pricing box, pricing grid, 
 Requires at least: 3.8
 Tested up to: 3.8.1
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
