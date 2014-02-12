@@ -26,7 +26,13 @@ Plugin Features
 * Unlimited Column.
 * Unlimited Color.
 * ToolTip Text.
-* Blank Field cross icon. 
+* Blank Field cross icon.
+* Easy Admin Panel.
+
+<br />
+<strong>Pro version available with more features</strong><br />
+Pro Version Link:<br />
+http://kentothemes.com/items/plugins/kento-pricing-table/
 
 
 
