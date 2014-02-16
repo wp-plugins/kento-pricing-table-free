@@ -88,6 +88,7 @@ http://www.youtube.com/watch?v=KAHTDyUAIPA
 
 = 1.2 =
 * Display Shortcode after save settings.
+* Display or Hide background image.
 * WP_DEBUG error fixed.
 
 = 1.1 =
