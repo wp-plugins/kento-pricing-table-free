@@ -9,7 +9,7 @@ border-collapse:collapse;
 border:1px solid #666;
 }
 .price-table{
-background:url("blur_2-t2.jpg") no-repeat scroll 0 0 / 100% auto rgba(0, 0, 0, 0);
+
 font-size:14px;
 text-align:center;
 vertical-align:top;
@@ -156,4 +156,7 @@ display:block;
 left:25px;
 position:absolute;
 z-index:99;
+}
+#kpt-column-shortcodes{
+background-color:#9AC5FF;
 }

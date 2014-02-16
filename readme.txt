@@ -4,7 +4,7 @@ Donate link:
 Tags: Pricing Table Free, Pricing Table, Price Table, Pricing rate, discount offer, comparison table, css table, price, price gird, pricing, pricing box, pricing grid, 
 Requires at least: 3.8
 Tested up to: 3.8.1
-Stable tag: 1.1
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -17,15 +17,25 @@ Pure CSS3 & HTML Smart Pricing table grid
 Live Preview: http://kentothemes.com/demo/kento-pricing-table-free/
 
 
+<br />
+<strong>Pro version available with more features</strong><br />
+Pro Version Link:<br />
+http://kentothemes.com/items/plugins/kento-pricing-table/
 
 
 
-Plugin Features
+Free Version Plugin Features
 
-* Unlimited Color.
+* Unlimited Row.
 * Unlimited Column.
+* Unlimited Color.
 * ToolTip Text.
-* Blank Field cross icon. 
+* Blank Field cross icon.
+* Easy Admin Panel.
+* Display Shortcode after save settings.
+
+
+
 
 
 
@@ -59,9 +69,9 @@ To display tooltip on any filed you need to add a css class "<strong>tooltip</st
 <strong>How to Display on Post or Page ?</strong><br />
 after fill table data field please add this shortcode <strong>[kpt]</strong> to your post or page
 
-
 Video Tutorial Here:
 http://www.youtube.com/watch?v=KAHTDyUAIPA
+
 
 
 
@@ -75,6 +85,13 @@ http://www.youtube.com/watch?v=KAHTDyUAIPA
 
 
 == Changelog ==
+
+= 1.2 =
+* Display Shortcode after save settings.
+* WP_DEBUG error fixed.
+
+= 1.1 =
+* Add Unlimited row feature.
 
 = 1.0 =
 * Initial release
