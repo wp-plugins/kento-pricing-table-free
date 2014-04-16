@@ -10,6 +10,14 @@
 Please report any issue via our support forum <a href="http://kentothemes.com/questions-answers/">kentothemes.com &raquo; Q&A</a> or ask any question if you need. <br />
         Checkout Our Latest Plugin <a href="http://kentothemes.com/">http://kentothemes.com</a>
 </p>
+
+<div class="reviews">If you really like this plugin then please submit a review <span class="star"></span> at <a target="_blank" href="http://wordpress.org/support/view/plugin-reviews/kento-pricing-table-free">WordPress.org </a>
+
+
+
+</div>
+
+
 <br />
 <h3>Need Premium Version Of "Kento Pricing Table Free" ?</h3>
 <p>
