@@ -205,3 +205,16 @@ background-color:#9AC5FF;
   vertical-align: middle;
   width: 15px;
 }
+
+
+.kpt-pro-info .reviews {
+  color: #00960B;
+}
+.kpt-pro-info .star {
+  background: url("star.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+  display: inline-block;
+  height: 19px;
+  margin-left: 10px;
+  vertical-align: middle;
+  width: 95px;
+}
