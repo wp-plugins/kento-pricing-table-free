@@ -12,15 +12,15 @@ Pure CSS3 & HTML Pricing Table Grid with Unlimited Column.
 
 == Description ==
 
+
+<h2>This Plugins are not updating please use update version </h2>
+
+http://wordpress.org/plugins/pricing-tables/
+
+
+
 Pure CSS3 & HTML Smart Pricing table grid 
 
-Live Preview: http://kentothemes.com/demo/kento-pricing-table-free/
-
-
-<br />
-<strong>Pro version available with more features</strong><br />
-Pro Version Link:<br />
-http://kentothemes.com/items/plugins/kento-pricing-table/
 
 
 
