@@ -13,12 +13,6 @@ Pure CSS3 & HTML Pricing Table Grid with Unlimited Column.
 == Description ==
 
 
-<h2>This Plugins are not updating please use update version </h2>
-
-http://wordpress.org/plugins/pricing-tables/
-
-
-
 Pure CSS3 & HTML Smart Pricing table grid 
 
 
