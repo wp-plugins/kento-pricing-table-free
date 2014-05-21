@@ -88,6 +88,19 @@
 	</tr> 
 <?php } ?>
 
+
+	<tr valign="top">
+		<th scope="row" style="color:#f00;">Notice</th>
+		<td style="vertical-align:middle; color:#f00;">   This Plugin is no longer update. please use this free update plugin <br >               
+                     <a href="http://wordpress.org/plugins/pricing-tables/">http://wordpress.org/plugins/pricing-tables/</a>
+		</td>
+	</tr> 
+
+
+
+
+
+
 	<tr valign="top">
 		<th scope="row"><label for="kpt-column-width"><?php echo __('Table Column Width'); ?>: </label></th>
 		<td style="vertical-align:middle;">                     
