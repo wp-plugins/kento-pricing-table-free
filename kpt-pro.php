@@ -32,7 +32,7 @@ If you need more feature for your pricing table then you could try our pro versi
 # Featured Colum And Hover effect.<br />
 <br /><br />
 <h3>Pro Vesrion:</h3><br />
-<strong>Price: $10(USD)</strong><br />
+<strong>Price: $5(USD)</strong><br />
 Link: <a target="_blank" href="http://kentothemes.com/items/plugins/wordpress-pricing-table/">http://kentothemes.com/items/plugins/wordpress-pricing-table/</a><br /><br />
 <img src="<?php echo  plugins_url(); ?>/kento-pricing-table-free/css/kento-pricing-table-pro.png" />
 </p>
