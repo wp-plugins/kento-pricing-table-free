@@ -11,13 +11,6 @@ Please report any issue via our support forum <a href="http://kentothemes.com/qu
         Checkout Our Latest Plugin <a href="http://kentothemes.com/">http://kentothemes.com</a>
 </p>
 
-<div class="reviews">If you really like this plugin then please submit a review <span class="star"></span> at <a target="_blank" href="http://wordpress.org/support/view/plugin-reviews/kento-pricing-table-free">WordPress.org </a>
-
-
-
-</div>
-
-
 <br />
 <h3>Need Premium Version Of "Kento Pricing Table Free" ?</h3>
 <p>
@@ -25,11 +18,20 @@ If you need more feature for your pricing table then you could try our pro versi
 <br />
 <b>Pro Version Features</b><br />
 
-# Life Time Update.<br />
+# Life Time Auto Update.<br />
 # Life Time Support via forum.<br />
 # One Time purchase.<br />
 # 7 Days Refund.<br />
 # Easy to use.<br />
+# Different Background Color for column.<strong style="color:#139b50;">(Premium Only)</strong><br />
+# Four different themes.<strong style="color:#139b50;">(Premium Only)</strong><br />
+# Top And Bottom Gradient. <strong style="color:#139b50;">(Premium Only)</strong><br />
+# Column Corner Radius.<strong style="color:#139b50;">(Premium Only)</strong><br />
+# Table Column Margin.<strong style="color:#139b50;">(Premium Only)</strong><br />
+# Hide Blank Field Style. <strong style="color:#139b50;">(Premium Only)</strong><br />
+# Custom font size for column header, price, signup link.<strong style="color:#139b50;">(Premium Only)</strong><br />
+# Custom color for column header, price, signup link.<strong style="color:#139b50;">(Premium Only)</strong><br />
+# Custom height for column header, price, signup.<strong style="color:#139b50;">(Premium Only)</strong><br />
 # Unlimited Number Pricing Table Using shortcodes.<br />
 # Unlimited column color for each column.<br />
 # Featured Colum And Hover effect.<br />

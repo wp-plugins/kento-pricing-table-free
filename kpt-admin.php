@@ -88,6 +88,8 @@
 	</tr> 
 <?php } ?>
 
+
+
 	<tr valign="top">
 		<th scope="row"><label for="kpt-column-width"><?php echo __('Table Column Width'); ?>: </label></th>
 		<td style="vertical-align:middle;">                     
