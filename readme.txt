@@ -1,5 +1,5 @@
 === Kento Pricing Table Free ===
-Contributors: hasanrang05
+Contributors: kentothemes
 Donate link: 
 Tags: Pricing Table Free, Pricing Table, Price Table, Pricing rate, discount offer, comparison table, css table, price, price gird, pricing, pricing box, pricing grid, 
 Requires at least: 3.8
