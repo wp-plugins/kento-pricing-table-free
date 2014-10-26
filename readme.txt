@@ -3,34 +3,41 @@ Contributors: kentothemes
 Donate link: 
 Tags: Pricing Table Free, Pricing Table, Price Table, Pricing rate, discount offer, comparison table, css table, price, price gird, pricing, pricing box, pricing grid, 
 Requires at least: 3.8
-Tested up to: 3.8.2
-Stable tag: 1.3
+Tested up to: 4.0
+Stable tag: 2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Pure CSS3 & HTML Pricing Table Grid with Unlimited Column. 
+Pure CSS3 & HTML Pricing Table Grid with Unlimited Column & Rows. Now you can create as many pricing table as you want!
 
 == Description ==
 
 
 Pure CSS3 & HTML Smart Pricing table grid 
 
+Whats New:
 
+* New & Improved Admin Panel
+* Easy Customizable Options
+* Create unlimited pricing tables
+* Customize with color picker to beautify your pricing table.
 
+LIVE DEMO: http://kentothemes.com/plugin_demo/pricing-table-pro/
 
 Free Version Plugin Features
 
 * Unlimited Row.
 * Unlimited Column.
 * Unlimited Color.
+* 100% Customizable
 * ToolTip Text.
 * Blank Field cross icon.
 * Easy Admin Panel.
 * Display Shortcode after save settings.
+* Preview Mode
 
 
-
-
+Check out the PRO version for more Themes & Customization options: <a href="http://kentothemes.com/items/plugins/kento-pricing-table-pro/">Kento Pricing Table Pro</a>
 
 
 
@@ -38,8 +45,8 @@ Free Version Plugin Features
 
 
 1. Install as regular WordPress plugin.
-2. Go your Pluings setting via WordPress Dashboard and <strong>activate</strong> it.
-3. After Activate you see Menu on left Sidebar "<strong>KPT Settings</strong>" 
+2. Go your Pluings setting via WordPress Dashboard and <strong>activate</strong> the Kento Pricing Table Free.
+3. After you Activate the plugin you will see a menu on left Sidebar "<strong>KPT Free</strong>" 
 4. Please set a value these settings.<br />
 	<strong>Table Column Width:</strong> (ex: 180)<br />
 	<strong>Background Color:</strong> (ex: #37B291)<br />
@@ -59,31 +66,13 @@ To display tooltip on any table cell you need to add a css class "<strong>toolti
 `<span class="tooltip" title="here is tooltip text">Some Text</span>`
 
 
-<strong>How To Display Ribbon ?</strong><br />
-To Display Ribbon on each top of column you need to add a span tag on table column header cell as following bellow<br />
-for examle if your column header "Basic Plan"
-then add<br />
-
-New Ribbon:<br />
-`Basic Plan<span class="ribbon new">New</span>`<br />
-
-Pro Ribbon:<br />
-`Basic Plan<span class="ribbon pro">Pro</span>`<br />
-
-Hot Ribbon:<br />
-`Basic Plan<span class="ribbon hot">Hot</span>`<br />
-
-Save Ribbon:<br />
-`Basic Plan<span class="ribbon save">Save</span>`<br />
-
-
 ** Any Blank Field will display cross icon.
 
 <strong>How to Display on Post or Page ?</strong><br />
 after fill table data field please add this shortcode <strong>[kpt]</strong> to your post or page
 
 Video Tutorial Here:
-http://www.youtube.com/watch?v=KAHTDyUAIPA
+COMING SOON
 
 
 
@@ -91,18 +80,23 @@ http://www.youtube.com/watch?v=KAHTDyUAIPA
 
 == Screenshots ==
 
-1. Admin Settings.
-2. Table Display.
-3. Table Color.
-4. Table tooltip.
+1. Table Color Display 1
+2. Table Color Display 2
+3. Table tooltip
+4. Admin Settings
 
 
 == Changelog ==
 
+= 2.0 =
+* New Admin Panel
+* New Features for Customization
+* Add Unlimited Tables
+
 = 1.2 =
 * Display Shortcode after save settings.
 * Display or Hide background image.
-* WP_DEBUG error fixed.
+* WP_DEBUG error fixed.s
 
 = 1.1 =
 * Add Unlimited row feature.
