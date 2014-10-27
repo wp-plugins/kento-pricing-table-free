@@ -22,7 +22,7 @@ Whats New:
 * Create unlimited pricing tables
 * Customize with color picker to beautify your pricing table.
 
-LIVE DEMO: http://kentothemes.com/plugin_demo/pricing-table-pro/
+LIVE DEMO: http://kentothemes.com/plugin_demo/pricing-table-free/
 
 Free Version Plugin Features
 
