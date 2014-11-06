@@ -1,6 +1,6 @@
 === Kento Pricing Tables Free ===
 Contributors: kentothemes
-Tags:  free pricing table, price table, pricing table, pricing table plugin, pricing tables, wordpress pricing table
+Tags:  free pricing table, price table, pricing table, pricing table plugin, pricing tables, wordpress pricing table,kentothemes
 Requires at least: 3.8
 Tested up to: 4
 Stable tag: 2.0
@@ -11,16 +11,14 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Pricing Tables is one of best and smart looking free pricing plugin for wordpress, easy to use and customize to display anywhere in your wordpress site page or post or via php code by shortcode. its pure CSS3 and HTML pricing table pack.
+Pricing Tables is one of best and smart looking free pricing plugin for WordPress, easy to use and customize to display anywhere in your wordpress site page or post or via php code by shortcode. its pure CSS3 and HTML pricing table pack.
 
 You can control column width and color to match your current themes and website color as well as another great feature to add background image for pricing table area and you could add your own background image via image file link.
-
 
 
 Plugin Features
 	
     Unlimited Pricing Table Using easy shortcodes ([wpt id="387"])
-    
     Custom width for column.
     Unlimited column color.
     Unlimited numbers of column & row.
@@ -33,10 +31,15 @@ Plugin Features
     Easy Admin Panel.
 
 
+Checkout http://kentothemes.com for the PRO version and other plugins.
+
 
 == Installation ==
 
-Please see documentation: http://kentothemes.com/doc/pricing-tables-pro/
+Installation Video: https://www.youtube.com/watch?v=aXbREOQNZi0
+
+Please see documentation: http://kentothemes.com/doc/pricing-tables-pro (Free Version has limited features from the PRO)
+
 
 
 == Changelog ==
