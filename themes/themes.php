@@ -102,6 +102,7 @@ function wpt_price_table_style($postid)
 	
 	
 	
+	
 		if(($wpt_column_margin!=NULL))
 			{
 				echo ".price-table-main.default .price-table ul li{
@@ -116,7 +117,7 @@ function wpt_price_table_style($postid)
 
 		if(isset($wpt_bg_img))
 			{
-				$bg_dir_url = plugins_url("kento-pricing-tables/css/bg/");
+				$bg_dir_url = plugins_url("kento-pricing-table-free/css/bg/");
 				$bg_name = str_replace($bg_dir_url,"",$wpt_bg_img);
 				
 		if($bg_name=="wpt-bg-1.jpg")
@@ -136,7 +137,11 @@ function wpt_price_table_style($postid)
 				echo ".price-table-main.default .price-table ul li ul li
 					{width: ".$wpt_column_width."px;}";		
 			}
-	
+	 if(!empty($wpt_table_column_signup_text[$j]))
+			{
+				
+			}
+			
 
 
 		$j = 1;

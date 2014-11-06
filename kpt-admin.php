@@ -1,5 +1,5 @@
 <div class="wrap">
-	<?php echo "<h2>".__('Pricing Tables Pro Info')."</h2>";?>
+	<?php echo "<h2>".__('Pricing Tables Free Info')."</h2>";?>
     <br />
 
 		<strong>Please send us feedback</strong>

@@ -12,10 +12,9 @@ jQuery(document).ready(function(jQuery)
 					
 					
 				})
-
-				jQuery(document).ready( function($) {   
-					jQuery('#wpt-infos').parent().attr('target','_blank');  
-				});	
+			
+			
+			
 	
 	
 			//get gradient value

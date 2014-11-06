@@ -22,8 +22,7 @@ function wpt_price_table_body($postid)
 			$wpt_featured_column = get_post_meta( $postid, 'wpt_featured_column', true );
 			$wpt_themes = get_post_meta( $postid, 'wpt_themes', true );
 		
-		
-		
+			
 		
 		
 		
@@ -85,14 +84,24 @@ function wpt_price_table_body($postid)
 													}
 													
 												elseif($i==$wpt_total_row)
-													{
+												{
+												if(trim($wpt_table_column_signup_text[$j]==""))
+												{
 													$wpt.=  "<li class='price-table-items'>";
+													
+													
+													$wpt.=  "</li>";
+												}
+												else
+													{
+												
+													$wpt.=  "<li class='price-table-items'>";																										
 													$wpt.=  "<div class='signup' ><a href='".$wpt_table_column_signup_url[$j]."'>";
 													$wpt.=  $wpt_table_column_signup_text[$j];
-													$wpt.=  "</a></div>";
+													$wpt.=  "</a></div>";																										
 													$wpt.=  "</li>";
-													}									
-													
+													}
+												}
 												else
 													{
 														
@@ -149,14 +158,27 @@ function wpt_price_table_body($postid)
 													
 													$wpt.=  "</li>";
 													}
+													
 												elseif($i==$wpt_total_row)
-													{
+												{
+												if(trim($wpt_table_column_signup_text[$j]==""))
+												{
 													$wpt.=  "<li class='price-table-items'>";
-													$wpt.=  "<div class='signup'><a href='".$wpt_table_column_signup_url[$j]."'>";
+													
+													
+													$wpt.=  "</li>";
+												}
+												else
+													{
+												
+													$wpt.=  "<li class='price-table-items'>";																										
+													$wpt.=  "<div class='signup' ><a href='".$wpt_table_column_signup_url[$j]."'>";
 													$wpt.=  $wpt_table_column_signup_text[$j];
-													$wpt.=  "</a></div>";
+													$wpt.=  "</a></div>";																										
 													$wpt.=  "</li>";
 													}
+												}
+												
 												else
 													{
 														
