@@ -3,8 +3,8 @@
 /*
 Plugin Name: Kento Pricing Tables Free
 Plugin URI: http://kentothemes.com
-Description: Wordpress Pricing Table is pure CSS3 and HTML pricing table packs. Easy to use just input data to table filed and used via shortcodes.
-Version: 2.0
+Description: Kento Pricing Table Free uses pure HTML and CSS with easy to easy shortcode method. For more features checkout <a href="http://kentothemes.com/items/plugins/kento-pricing-table-pro/" target="_blank"> Kento Pricing Table Pro</a>.
+Version: 2.1
 Author: kentothemes
 Author URI: http://kentothemes.com
 License: copyright@kentothemes.com
@@ -243,7 +243,7 @@ function meta_boxes_wpt_input( $post ) {
      	<select name="wpt_themes">
         	<option value="default" <?php if($wpt_themes=='default') echo "selected"; ?>>Default</option>
             <option value="flat" disabled >Kento Theme Flat (Only for Pro) </option>
-            <option value="arc" disabled >Kento Theme Arc (Only for Pro) </option>
+            <option value="arc" disabled >Kento Theme Arc (Only For Pro) </option>
             <option value="ultra" disabled> Kento Theme Ultra (Only for Pro )</option>
             <option value="light" disabled> Kento Theme Light (Only for Pro )</option>
             <option value="stroke" disabled> Kento Theme Stroke (Only for Pro )</option>
