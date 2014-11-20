@@ -40,7 +40,12 @@ Installation Video: https://www.youtube.com/watch?v=aXbREOQNZi0
 
 Please see documentation: http://kentothemes.com/doc/pricing-tables-pro (Free Version has limited features from the PRO)
 
+== Screenshots ==
 
+1. Admin Panel
+2. live preview1
+3. live preview2
+4. live preview3
 
 == Changelog ==
 
