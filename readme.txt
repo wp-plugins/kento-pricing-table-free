@@ -1,6 +1,6 @@
 === Kento Pricing Tables Free ===
 Contributors: kentothemes
-Tags:  free pricing table, price table, pricing table, pricing table plugin, pricing tables, wordpress pricing table,kentothemes
+Tags:  free pricing table, price table, pricing table, pricing table plugin, pricing tables, wordpress pricing table,kentothemes, CSS3 pricing table, wp price table, responsive pricing table
 Requires at least: 3.8
 Tested up to: 4.2.2
 Stable tag: 2.0
