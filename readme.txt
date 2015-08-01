@@ -13,13 +13,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Pricing Tables is one of best and smart looking free pricing plugin for WordPress, easy to use and customize to display anywhere in your wordpress site page or post or via php code by shortcode. its pure CSS3 and HTML pricing table pack.
 
-
 <strong><a href="http://kentothemes.com/items/plugins/kento-pricing-table-pro/">Upgrade to Pro Version</a></strong>
-<ul>
-	<li>
-		<a href="http://kentothemes.com/items/plugins/kento-pricing-table-pro/">Live Preview</a>
-	</li>
-</ul>
+
 You can control column width and color to match your current themes and website color as well as another great feature to add background image for pricing table area and you could add your own background image via image file link.
 
 
@@ -38,6 +33,11 @@ You can control column width and color to match your current themes and website 
 	<li>Corner radius for column.</li>
 	<li>Easy Admin Panel.</li>
 </ul>
+
+<strong>Video Tutorial Here.</strong>
+	<div class="video">
+	<iframe width="854" height="510" src="https://www.youtube.com/embed/aXbREOQNZi0" frameborder="0" allowfullscreen></iframe>	
+	</div>
 
 Checkout http://kentothemes.com for the PRO version and other plugins.
 
