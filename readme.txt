@@ -37,6 +37,30 @@ You can control column width and color to match your current themes and website 
 <strong>Video Tutorial Here.</strong>
 https://www.youtube.com/watch?v=aXbREOQNZi0
 
+<strong>Premium Version Features :</strong>
+<ul>
+	<li>Unlimited Pricing Table Using easy shortcodes (`[wpt id="123"]`)</li>
+    <li>Five  different themes (Flat, Monsoon, Arc, Stroke, Light)</li>
+    <li>Custom font size for column header, price, signup link.</li>
+    <li>Custom color for column header, price, signup link.</li>
+    <li>Custom height for column header, price, signup.</li>
+    <li>Hide/Display Blank Fields.</li>
+    <li>Featured column.</li>
+    <li>Hover zoom effect.</li>
+    <li>Custom width for column.</li>
+    <li>Unlimited each column color.</li>
+    <li>Unlimited numbers of column & row.</li>
+    <li>Unlimited Background Image for Table area.</li>
+    <li>Hide or display blank field.</li>
+    <li>Top and bottom gradient or flat background.</li>
+    <li>Custom background image for blank field.</li>
+    <li>Table column margin.</li>
+    <li>Different ribbon to column(to mark Featured, Best, New, Save, Hot more…).</li>
+    <li>Corner radius for column.</li>
+    <li>Easy Admin Panel.</li>
+</ul>
+
+
 Checkout http://kentothemes.com for the PRO version and other plugins.
 
 
