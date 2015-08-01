@@ -36,7 +36,7 @@ You can control column width and color to match your current themes and website 
 
 <strong>Video Tutorial Here.</strong>
 	<div class="video">
-	<iframe width="854" height="510" src="https://www.youtube.com/embed/aXbREOQNZi0" frameborder="0" allowfullscreen></iframe>	
+		<iframe width="532" height="325" src="https://www.youtube.com/embed/aXbREOQNZi0" frameborder="0" allowfullscreen></iframe>	
 	</div>
 
 Checkout http://kentothemes.com for the PRO version and other plugins.
