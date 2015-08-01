@@ -24,19 +24,20 @@ You can control column width and color to match your current themes and website 
 
 
 <strong>Plugin Features : </strong>
-	
-    Unlimited Pricing Table Using easy shortcodes ([wpt id="387"])
-    Custom width for column.
-    Unlimited column color.
-    Unlimited numbers of column & row.
-    Unlimited Background Image for Table area.
-    Hide or display blank field.
-    Top and bottom gradient or flat background.
-    Custom background image for blank field.
-    Table column margin.
-    Corner radius for column.
-    Easy Admin Panel.
-
+<ul>
+	<li>Unlimited Pricing Table Using easy shortcodes ([wpt id="387"])</li>
+	<li>Fully Responsive</li>
+	<li>Custom width for column.</li>
+	<li>Unlimited column color.</li>
+	<li>Unlimited numbers of column & row.</li>
+	<li>Unlimited Background Image for Table area.</li>
+	<li>Hide or display blank field.</li>
+	<li>Top and bottom gradient or flat background.</li>
+	<li>Custom background image for blank field.</li>
+	<li>Table column margin.</li>
+	<li>Corner radius for column.</li>
+	<li>Easy Admin Panel.</li>
+</ul>
 
 Checkout http://kentothemes.com for the PRO version and other plugins.
 
